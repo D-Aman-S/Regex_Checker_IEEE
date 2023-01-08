@@ -17,7 +17,7 @@ Coming soon.
 Clone the project
 
 ```bash
-  git clone https://github.com/schietegal/Regex-Tester
+  git clone https://github.com/D-Aman-S/Regex_Checker_IEEE.git
 ```
 
 Go to the project directory
