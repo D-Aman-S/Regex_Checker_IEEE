@@ -4,11 +4,13 @@ I made this project for subssion to my intership project for IEEE.
 
 ## 📸
 
-![Regex-Test Screenshot](/src/lib/assets/screen.jpg?raw=true)
+<!-- ![Regex-Test Screenshot](/src/lib/assets/screen.jpg?raw=true) -->
 
 ## Demo
 
-https://regex-tester-tdi.vercel.app/
+<!-- https://regex-tester-tdi.vercel.app/ -->
+
+Coming soon.
 
 ## Run Locally
 
@@ -38,15 +40,15 @@ Start the local development server
 
 ## Roadmap
 
-- Regex Exec
+- Design
 
-- Regex Test
+- Discussion
 
-- Quiz
+- Brainstorming
 
-- Own Regex String Testing
+- Failing horribly at css
 
-- Better Animations
+- Repeat
 
 ## License
 
