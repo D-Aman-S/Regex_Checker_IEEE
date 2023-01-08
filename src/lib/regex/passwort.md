@@ -1,9 +1,9 @@
 ---
-title: Passwort Validierung
-description: Überprüft, ob ein Kennwort mindestens 6 Zeichen, mindestens 1 Großbuchstabe, 1 Kleinbuchstabe und 1 Zahl ohne Leerzeichen enthält.
-tags: Passwort, Validierung
+title: Passwort Validation
+description: Verifies that a password contains at least 6 characters, at least 1 uppercase letter, 1 lowercase letter, and 1 number with no spaces.
+tags: Passwort, Validation
 regex: ^((?=\S*?[A-Z])(?=\S*?[a-z])(?=\S*?[0-9]).{6,})\S$
 testString: |
   Catcat1
-  sicheresPasswort
+  IAMVERYcORRECTPASSWORD
 ---

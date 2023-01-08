@@ -12,7 +12,7 @@
 </script>
 
 <div class="code _animate w-full">
-	<h3 class="uppercase text-highlight">Regulärer Ausdruck:</h3>
+	<h3 class="uppercase text-highlight">REGULAR EXPRESSION:</h3>
 	<div class="flex w-full flex-col gap-2">
 		<pre
 			class="line-numbers scrollbar-thin overflow-x-auto rounded bg-black text-lg text-white"><code

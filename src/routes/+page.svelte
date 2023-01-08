@@ -86,7 +86,7 @@
 </script>
 
 <section id="start" class="my-4 overflow-hidden p-4">
-	<h1 class="text-center text-4xl font-bold">Regex Match</h1>
+	<h1 class="text-center text-4xl font-bold">Regex Match Helper</h1>
 	<div class="ml-auto mb-2">
 		<TagSelect
 			{tags}

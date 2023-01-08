@@ -1,7 +1,7 @@
 ---
-title: URL Validierung
-description: Testet, ob eine Zeichenkette eine URL ist. Eine URL muss mit http:// oder https:// beginnen.
-tags: URL, Validierung
+title: URL Validation
+description: Tests whether a string is a URL. A URL must begin with http:// or https://.
+tags: URL, Validation
 regex: https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#()?&//=]*)
 testString: |
   http://www.google.com

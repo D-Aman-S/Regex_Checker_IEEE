@@ -61,7 +61,7 @@
 	}
 
 	.resultList li {
-		@apply flex flex-col text-black transition-all before:block before:text-xs before:font-thin before:text-black-light before:content-['Zeile_'attr(data-ln)':_'];
+		@apply flex flex-col text-black transition-all before:block before:text-xs before:font-thin before:text-black-light before:content-['Line_'attr(data-ln)':_'];
 	}
 	.resultList li span {
 		@apply flex items-center gap-1;

@@ -1,7 +1,7 @@
 ---
-title: Positive Zahlen Test
-description: Mit diesem Regex kannst du überprüfen, ob eine Zahl positiv ist. Einfacher geht es nicht!
-tags: Zahl
+title: Positive numbers test
+description: You can use this regex to check if a number is positive. It's that easy!
+tags: Number
 regex: ^\d+$
 testString: |
   1

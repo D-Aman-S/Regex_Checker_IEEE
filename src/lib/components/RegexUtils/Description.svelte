@@ -36,12 +36,12 @@
 	</h2>
 	<span id="line" class="absolute left-0 bottom-0 h-[2px] w-full bg-black" />
 	<div>
-		<h3>Beschreibung:</h3>
+		<h3>Description:</h3>
 		<p>{md?.metadata?.description}</p>
 	</div>
 	{#if md?.compiled}
 		<div class="flex items-center">
-			<h4>Mehr Informationen:</h4>
+			<h4>More information:</h4>
 			<button
 				on:click={toggleDescription}
 				class="m-0 mb-3 w-fit bg-transparent p-0 px-1 text-lg font-semibold text-third focus:outline-none"

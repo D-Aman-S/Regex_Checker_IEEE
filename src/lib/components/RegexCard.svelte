@@ -53,6 +53,6 @@
 	<Tags {tags} bind:this={tagComponent} />
 	<Description {md} bind:this={description} />
 	<Code {regex} />
-	<Input label="Eingabe" bind:textarea={stringToTest} />
+	<Input label="Input" bind:textarea={stringToTest} />
 	<Result label="Matches" {results} />
 </div>

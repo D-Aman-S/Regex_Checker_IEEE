@@ -21,7 +21,7 @@
 			rows="5"
 		/>
 		<span class="w-fit text-center text-[10px] text-offwhite-light"
-			>"Enter" um eine neue Zeile zu testen</span
+			>Enter" to test a new line</span
 		>
 	</div>
 </div>
