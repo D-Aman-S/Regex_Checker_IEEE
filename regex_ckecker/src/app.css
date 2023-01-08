@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick Hand SC:wght@400;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 100 900;
+	src: url('/fonts/patricHSC.ttf');
+	/* IE9 Compat Modes */
+	src: local(''), url('/fonts/patricHSC.ttf') format('truetype');
+	/* Super Modern Browsers */
+}
+
+@layer base {
+	html {
+		@apply scroll-smooth;
+	}
+	::placeholder {
+		color: white;
+	}
+	body {
+		@apply bg-black text-white;
+		font-family: 'Patrick Hand SC';
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5 {
+		@apply mb-3 font-extrabold;
+	}
+
+	h1 {
+		@apply mb-5 text-5xl;
+	}
+
+	h2 {
+		@apply mb-4 text-3xl;
+	}
+
+	h2 {
+		@apply text-xl;
+	}
+
+	button {
+		@apply my-4 rounded bg-highlight py-1 px-6 font-medium text-white;
+	}
+
+	p {
+		@apply mb-4 mt-1 max-w-prose text-offwhite;
+	}
+
+	input {
+		@apply text-[19px];
+	}
+
+	a {
+		@apply text-third;
+	}
+
+	a:hover {
+		@apply text-third-dark underline;
+	}
+}

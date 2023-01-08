@@ -1,38 +1,55 @@
-# create-svelte
+# Regex Tester
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Ein kleines Tool zum Testen von regulären Ausdrücken. Als Uni-Projekt für die Vorlesung Theoretische Informatik an der [THB](https://www.th-brandenburg.de/startseite/).
 
-## Creating a project
+A small tool for testing regular expressions. As a university project for the lecture Theoretical Computer Science at [THB](https://www.th-brandenburg.de/startseite/).
 
-If you're seeing this, you've probably already done this step. Congrats!
+## 📸
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+![Regex-Test Screenshot](/src/lib/assets/screen.jpg?raw=true)
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Demo
 
-## Developing
+https://regex-tester-tdi.vercel.app/
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Run Locally
+
+Clone the project
 
 ```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+  git clone https://github.com/schietegal/Regex-Tester
 ```
 
-## Building
-
-To create a production version of your app:
+Go to the project directory
 
 ```bash
-npm run build
+  cd regex-tester
 ```
 
-You can preview the production build with `npm run preview`.
+Install dependencies
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+```bash
+  npm install
+```
+
+Start the local development server
+
+```bash
+  npm run dev
+```
+
+## Roadmap
+
+- Regex Exec
+
+- Regex Test
+
+- Quiz
+
+- Own Regex String Testing
+
+- Better Animations
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
