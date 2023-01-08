@@ -23,7 +23,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd regex-tester
+  cd Regex_Checker_IEEE
 ```
 
 Install dependencies
