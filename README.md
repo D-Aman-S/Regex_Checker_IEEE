@@ -50,6 +50,8 @@ Start the local development server
 
 - Repeat
 
+<h3 align="center" > <img src="[Regex-Test Screenshot](/src/lib/assets/meme.jpg?raw=true)" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
