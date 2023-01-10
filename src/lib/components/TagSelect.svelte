@@ -102,7 +102,7 @@
 			items={tags}
 			class="z-index-10 border-black bg-black-dark text-black transition-all"
 			multiple
-			placeholder="Tags auswählen"
+			placeholder="Select Tags"
 			value={selectValue}
 			searchable={false}
 			on:select={handleSelect}
@@ -112,7 +112,7 @@
 				<Tag weight="fill" />
 			</div>
 			<div slot="empty" class="p-4 text-center text-white-dark">
-				Keine weiteren Tags verfügbar
+				No more tags available
 			</div>
 			<div slot="multi-clear-icon" class="text-highlight">
 				<XCircle weight="fill" />
