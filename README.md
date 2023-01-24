@@ -1,6 +1,6 @@
 # Regex Tester
 
-I made this project for subssion to my intership project for IEEE.
+I made this project for submission to the intership project for IEEE.
 
 ## 📸
 
