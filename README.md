@@ -48,7 +48,7 @@ Start the local development server
 
 - Repeat
 
-<h3 align="center" > <img src="/src/lib/assets/meme.jpg?raw=true" width="100" height="100" style="margin-right: 10px;">Kidding</h3>
+<h3 align="center" > <img src="/src/lib/assets/meme.jpg?raw=true" width="200" height="200" style="margin-right: 10px;">Kidding</h3>
 
 ## License
 
