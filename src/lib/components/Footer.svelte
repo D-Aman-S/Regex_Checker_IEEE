@@ -7,14 +7,14 @@
 		class="m-auto flex w-full max-w-screen-xl flex-col justify-between gap-4 text-center text-xs lg:flex-row"
 	>
 		<a
-			href="https://github.com/D-Aman-S"
+			href="https://github.com/D-Aman-S/Regex_Checker_IEEE"
 			target="_blank"
 			rel="noopener noreferrer"
 			class="text-highlight hover:text-third flex flex-row items-start justify-center gap-2 transition-colors"
 		>
-			<p>Aman kumar Singh</p>
+			<p>Github</p>
 			<GithubIcon size="2em" />
 		</a>
-		<p>NIT Agartala X IEEE 2022-2023</p>
+		<p>IEEE 2022-2023</p>
 	</div>
 </footer>

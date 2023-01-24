@@ -4,13 +4,11 @@ I made this project for subssion to my intership project for IEEE.
 
 ## 📸
 
-<!-- ![Regex-Test Screenshot](/src/lib/assets/screen.jpg?raw=true) -->
+![Regex-Test Screenshot](/src/lib/assets/ieeeSS.png?raw=true)
 
 ## Demo
 
-<!-- https://regex-tester-tdi.vercel.app/ -->
-
-Coming soon.
+https://regex-checker-ieee.vercel.app/
 
 ## Run Locally
 
@@ -50,7 +48,7 @@ Start the local development server
 
 - Repeat
 
-<h3 align="center" > <img src="/src/lib/assets/meme.jpg?raw=true" width="30" height="30" style="margin-right: 10px;">Kidding</h3>
+<h3 align="center" > <img src="/src/lib/assets/meme.jpg?raw=true" width="100" height="100" style="margin-right: 10px;">Kidding</h3>
 
 ## License
 
